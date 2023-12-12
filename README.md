@@ -18,3 +18,5 @@
 - The model that demonstrated the highest efficacy is identified as the Conv2D+LSTM architecture. 
 - The implementation incorporates transfer learning from MobileNet, has yielded a validation accuracy of 93.5%, underscoring its proficiency in accurately discerning and classifying user gestures.
 
+## Contact
+Created by [@kaushikpaul34] - feel free to contact me!
